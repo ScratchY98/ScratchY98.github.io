@@ -1,5 +1,6 @@
 # JinruiNoShoriWebsite
 
-An website for my game Jirui no shõri.
+The website for my game [JinruiNoShori](https://github.com/scratchy98/JinruiNoShori),
+an Attack on Titan fan game.
 
-https://jinruinoshori.netlify.app
+Online: https://jinruinoshori.netlify.app
